@@ -1,1 +1,7 @@
+#IDE
 .idea
+
+#terraform
+infrastructure/terraform.tfstate
+infrastructure/.terraform.lock.hcl
+infrastructure/.terraform/
